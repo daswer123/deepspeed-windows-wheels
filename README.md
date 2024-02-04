@@ -9,7 +9,8 @@ I've compiled all available wheels for Python 3.10 and 3.11, compatible with CUD
 Big thanks to [S95Sedan](https://github.com/S95Sedan/Deepspeed-Windows) for his work! He wrote the code that allowed compiling this library on Windows and created wheels for Python 3.11 with CUDA 12.1, which I have used here as well. If you're interested in compiling the library yourself, be sure to check out his repo for guidance.
 
 You'll find three versions of the library here: 0.11.2, 0.12.6, and 0.13.1.
-Version 0.11.2 is the most feature-complete of these; please consider this when downloading.
+
+**Version 0.11.2 is the most feature-complete of these; please consider this when downloading.**
 
 ## Installing Deepspeed
 
