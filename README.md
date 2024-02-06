@@ -1,6 +1,8 @@
 # Deepspeed Installation on Windows
 
-This project makes it easy to install the Deepspeed library on Windows by offering pre-compiled wheel files.
+[Deepspeed](https://github.com/microsoft/DeepSpeed) has not been officially supported on windows since python 3.9. These are unofficial, pre-build wheels
+
+This project makes it easy to install the Deepspeed on Windows by offering pre-compiled wheel files.
 
 Look for the wheels in the Releases tab
 
