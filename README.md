@@ -19,7 +19,7 @@ You'll find three versions of the library here: 0.11.2, 0.12.6, and 0.13.1.
 You don't need to download the wheel file directly; instead, just use a link in your installation command like this:
 For Python 3.10 with CUDA version 11.8:
 ```bash
-pip install https://github.com/daswer123/deepspeed-windows/releases/download/v0.11.2/deepspeed-0.11.2+cuda118-cp310-cp310-win_amd64.whl
+pip install https://github.com/daswer123/deepspeed-windows/releases/download/11.2/deepspeed-0.11.2+cuda118-cp310-cp310-win_amd64.whl
 ```
 
 **Note:** Make sure to adjust your command according to your specific Python version and desired CUDA support version as required.
